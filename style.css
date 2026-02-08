@@ -23,3 +23,9 @@ td {
 #times {
   margin-top: 12px;
 }
+
+#countdown {
+  margin-top: 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
