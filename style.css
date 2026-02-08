@@ -1,14 +1,25 @@
 body {
   font-family: system-ui, sans-serif;
-  padding: 20px;
+  padding: 12px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 1.4rem;
 }
 
 table {
+  width: 100%;
+  max-width: 400px;
   border-collapse: collapse;
-  margin-top: 10px;
 }
 
 td {
   border: 1px solid #ccc;
-  padding: 6px 12px;
+  padding: 8px;
+  font-size: 1rem;
+}
+
+#times {
+  margin-top: 12px;
 }
